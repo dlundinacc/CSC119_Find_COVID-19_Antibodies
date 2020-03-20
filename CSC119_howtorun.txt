@@ -1,0 +1,45 @@
+CSC119
+
+Open command prompt
+
+cd C:\Users\dougl\PycharmProjects\CSC119_Find_COVID-19_Antibodies
+
+C:\Users\dougl\PycharmProjects\CSC119_Find_COVID-19_Antibodies\venv\Scripts\python.exe CSC119_Find_COVID-19_Antibodies.py <DNA_seqs.txt >Found_mAb_seqs.txt
+
+
+
+Motifs found: 
+WVRKVH
+
+
+
+**********************************************************************************************************************
+How monoclonal antibodies (mAB) can be used to block COVID-19 infection:
+https://www.researchgate.net/publication/339910741_A_human_monoclonal_1_antibody_blocking_SARS-CoV-2_infection
+**********************************************************************************************************************
+
+
+
+**********************************************************************************************************************
+DNA sequences source:
+https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta
+**********************************************************************************************************************
+
+
+**********************************************************************************************************************
+Naming the virus:
+
+Official names have been announced for the virus responsible for COVID-19 (previously known as “2019 novel coronavirus”) and the disease it causes.  The official names are:
+
+Disease 
+
+coronavirus disease 
+(COVID-19)
+
+Virus 
+
+severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2)
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it
+**********************************************************************************************************************
